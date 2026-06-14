@@ -8,7 +8,7 @@
 
 <br/>
 
-![Student](https://img.shields.io/badge/CSE-UEM%20Jaipur%20%7C%20GPA%3A%209.0%2F10-6A0DAD?style=flat-square&logo=mortarboard&logoColor=white)
+![Student](https://img.shields.io/badge/CSE-UEM%20Jaipur%20%7C%20GPA%3A%208.93%2F10-6A0DAD?style=flat-square&logo=mortarboard&logoColor=white)
 ![NPTEL](https://img.shields.io/badge/NPTEL-Top%201%25%20Nationally%20%7C%20IIT%20Kharagpur-7C3AED?style=flat-square&logo=java&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Jaipur%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)
 
@@ -32,7 +32,7 @@
 
 ## About
 
-I'm **Purnagya Raj** — a Computer Science undergraduate at **UEM Jaipur (GPA: 8.93.0/10)** and a full-stack developer specializing in **React, Next.js, FastAPI, and PostgreSQL**, with hands-on experience in AI/ML integrations and event-driven microservices architecture.
+I'm **Purnagya Raj** — a Computer Science undergraduate at **UEM Jaipur (GPA: 8.93/10)** and a full-stack developer specializing in **React, Next.js, FastAPI, and PostgreSQL**, with hands-on experience in AI/ML integrations and event-driven microservices architecture.
 
 I build production-grade systems — not toy projects. From a 6-service Redis Streams platform with real-time threat classification to a hackathon management platform serving 200+ participants, I work across the entire stack with a precision-first engineering mindset.
 
