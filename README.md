@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Purnagya%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Integrations%20%7C%20Microservices%20%7C%20MERN%20%26%20FastAPI&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:8B5CF6&height=200&section=header&text=Purnagya%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20%7C%20Microservices%20%7C%20FastAPI&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -225,12 +225,12 @@ Selected as a contributor in the ECWoC'26 open source program — contributed ac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Purnagya08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Purnagya08&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Purnagya08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Purnagya08&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=C9D1D9" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnagya08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnagya08&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" width="40%" />
 
 </div>
 
@@ -240,7 +240,7 @@ Selected as a contributor in the ECWoC'26 open source program — contributed ac
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Purnagya08&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Purnagya08&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/Purnagya08)
 
 </div>
 
@@ -315,6 +315,6 @@ open_to:
 
 *"The best engineers don't just write code — they engineer outcomes."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:8B5CF6&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
