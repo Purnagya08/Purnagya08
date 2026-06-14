@@ -1,23 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Purnagya%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20MERN%20Specialist%20%7C%20Systems%20Builder&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Purnagya%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Integrations%20%7C%20Microservices%20%7C%20MERN%20%26%20FastAPI&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=Engineering+scalable+systems+from+scratch.;MERN+Stack+%7C+TypeScript+%7C+Full+Stack+Development;Clean+code.+Real+products.+No+shortcuts.;Building+in+public+%E2%80%94+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=NPTEL+Java+Topper+%E2%80%94+Top+1%25+Nationally+(IIT+Kharagpur);International+Hackathon+Finalist+%E2%80%94+LaserHacks+2025+(USA);Full+Stack+%7C+FastAPI+%7C+AI%2FML+%7C+Microservices;Clean+architecture.+Real+products.+No+shortcuts.)](https://git.io/typing-svg)
 
 <br/>
 
-![Student](https://img.shields.io/badge/2nd%20Year-Engineering%20Student-6A0DAD?style=flat-square&logo=mortarboard&logoColor=white)
-![MERN](https://img.shields.io/badge/Specialization-MERN%20Stack-7C3AED?style=flat-square&logo=mongodb&logoColor=white)
-![Location](https://img.shields.io/badge/Location-India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)
+![Student](https://img.shields.io/badge/CSE-UEM%20Jaipur%20%7C%20GPA%3A%209.0%2F10-6A0DAD?style=flat-square&logo=mortarboard&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Top%201%25%20Nationally%20%7C%20IIT%20Kharagpur-7C3AED?style=flat-square&logo=java&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Jaipur%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Purnagya08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purnagya-raj-3883b7321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purnagya-raj)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purnagya.raj26nov@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purnagya08)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Purnagya08)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5★%20Java-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Purnagya08)
 
 <br/>
 
@@ -31,11 +32,13 @@
 
 ## About
 
-I'm **Purnagya Raj** — a 2nd-year engineering student and a focused full stack developer specializing in the **MERN stack**. I don't just study concepts — I build with them. From crafting performant frontends to designing scalable backend systems, I work across the entire development cycle with a practical, production-first mindset.
+I'm **Purnagya Raj** — a Computer Science undergraduate at **UEM Jaipur (GPA: 8.93.0/10)** and a full-stack developer specializing in **React, Next.js, FastAPI, and PostgreSQL**, with hands-on experience in AI/ML integrations and event-driven microservices architecture.
 
-My approach centers on writing **clean, efficient, maintainable code** and turning real-world ideas into functional applications. I'm actively pushing beyond academic constraints — solving actual problems through disciplined software engineering.
+I build production-grade systems — not toy projects. From a 6-service Redis Streams platform with real-time threat classification to a hackathon management platform serving 200+ participants, I work across the entire stack with a precision-first engineering mindset.
 
-**Open To:** Backend Engineering Internships · Full Stack Roles · Open Source Collaboration · Technical Projects
+**Highlights:** NPTEL Java Course Topper among 19,306 candidates (100% score) · International Hackathon Finalist (LaserHacks 2025, Lasell University, USA) · 2× National Hackathon Finalist · 3× Semester Rank Holder among 250+ CSE students
+
+**Open To:** Backend & Full Stack Engineering Internships · AI/ML Integration Roles · Open Source Collaboration
 
 ---
 
@@ -45,19 +48,36 @@ My approach centers on writing **clean, efficient, maintainable code** and turni
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,js,ts,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark)](https://skillicons.dev)
 
 **Backend & Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,sqlite,prisma,supabase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,mysql,sqlite,redis,prisma&theme=dark)](https://skillicons.dev)
 
-**Cloud, DevOps & Tooling**
+**AI / ML & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=vercel,netlify,render,git,github,npm,vite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,docker,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|--------|-------------|---------|
+| **LLM Integration** | Advanced | OpenAI API — auto-classification, plain-language generation, domain tagging |
+| **ML Ensemble Models** | Advanced | RandomForest + PyTorch MLP — ~97% threat classification accuracy, sub-100ms inference |
+| **Deep Learning** | Intermediate | PyTorch — custom MLP architectures for real-time inference pipelines |
+| **Classical ML** | Intermediate | scikit-learn — ensemble stacking, credit risk scoring, multi-tier classification |
+| **AI-Powered APIs** | Advanced | FastAPI microservices wrapping LLM and ML models with structured JSON responses |
+| **Data Visualization** | Intermediate | Chart.js, Recharts — live SOC dashboards, financial scenario simulators |
 
 </div>
 
@@ -66,62 +86,62 @@ My approach centers on writing **clean, efficient, maintainable code** and turni
 ## Featured Projects
 
 <details>
-<summary><b>⚙️ Project Alpha — Full Stack Web Application</b></summary>
+<summary><b>🛡️ SentinelAI — Cyber Defense Simulator</b></summary>
 
 <br/>
 
-A production-grade full stack web application built on the MERN stack, featuring real-time data synchronization, JWT-based authentication, and a scalable REST API architecture.
+An event-driven microservices platform for real-time cyber threat simulation, autonomous defense execution, and live SOC monitoring — built for production-scale security operations.
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | React · Node.js · Express · MongoDB · TypeScript |
-| **Scale** | Multi-user · Role-based access control |
-| **Performance** | Optimized queries · Indexed collections · Lazy loading |
-| **Security** | JWT Auth · Bcrypt hashing · Rate limiting · Input validation |
-| **Impact** | End-to-end feature implementation from schema to UI |
+| **Stack** | FastAPI · Redis Streams · PyTorch · scikit-learn · React/Vite · Docker Compose |
+| **Scale** | 6-service microservices architecture · containerized with Docker Compose |
+| **Performance** | ~97% threat classification accuracy · sub-100ms ML inference latency |
+| **Security** | Isolated security domains · autonomous IP blocking · traffic rerouting · service isolation |
+| **Impact** | Autonomous Defense Engine requiring zero human intervention for countermeasure execution |
 | **Repository** | [View on GitHub](https://github.com/Purnagya08) |
 
-Engineered to handle concurrent user sessions with clean separation of concerns across the service layer. Emphasis on API contract design and maintainable module structure across the frontend and backend.
+Architected a 6-service event-driven platform on Redis Streams for real-time threat propagation across isolated security domains. Trained an ML ensemble (RandomForest + PyTorch MLP) and shipped a React/Vite SOC dashboard with live threat feed.
 
 </details>
 
 <details>
-<summary><b>🗄️ Project Beta — Backend API System</b></summary>
+<summary><b>⚙️ HackFlow AI — Hackathon Management Platform</b></summary>
 
 <br/>
 
-A robust RESTful backend service with relational database integration, structured around clean architecture principles and production-ready error handling.
+A unified platform replacing fragmented Google Form workflows — handling registrations, team formation, submissions, and AI-powered live judging for 200+ participants at scale.
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | Node.js · Express · PostgreSQL · Prisma ORM · JWT |
-| **Scale** | Stateless API · Horizontally scalable |
-| **Performance** | Query optimization · Connection pooling |
-| **Security** | Middleware auth guards · CORS policies · Schema validation |
-| **Impact** | Reliable data layer serving multiple frontend consumers |
+| **Stack** | Next.js · Node.js · PostgreSQL · Prisma ORM · FastAPI · OpenAI API · JWT |
+| **Scale** | 200+ participants · 3 fully isolated role-based dashboards |
+| **Performance** | 100% automated GitHub repo classification · 35% reduction in judge review time |
+| **Security** | JWT-based RBAC · fully isolated Organizer, Judge, Participant views |
+| **Impact** | Eliminated manual permission handling and scattered multi-tool workflows |
 | **Repository** | [View on GitHub](https://github.com/Purnagya08) |
 
-Designed with developer experience in mind — typed request/response contracts, structured error responses, and environment-aware configuration management.
+Engineered a FastAPI microservice with OpenAI API that auto-classified 100% of submitted GitHub repos by domain. Designed 3 role-based dashboards with JWT-based RBAC across Next.js frontend and PostgreSQL/Prisma backend.
 
 </details>
 
 <details>
-<summary><b>🌐 Project Gamma — Frontend Engineering</b></summary>
+<summary><b>📊 MSME Credit Risk Platform — AI Financial Advisory Engine</b></summary>
 
 <br/>
 
-A modern, responsive frontend built with React and Tailwind CSS — focused on component reusability, accessibility, and pixel-precise UI implementation.
+An AI-powered credit risk assessment platform processing multi-dimensional financial inputs and returning structured loan eligibility decisions with plain-language explanations.
 
 | Attribute | Details |
 |-----------|---------|
-| **Stack** | React · TypeScript · Tailwind CSS · Vite |
-| **Scale** | Component-driven · Design system aligned |
-| **Performance** | Code splitting · Optimized bundle · Minimal re-renders |
-| **Security** | Input sanitization · Protected routes |
-| **Impact** | Reusable UI component library with clear props API |
+| **Stack** | React.js · Node.js · Express.js · FastAPI · Chart.js · OpenAI API |
+| **Scale** | 6+ financial inputs · 5+ RESTful API endpoints · 3 risk tier classifications |
+| **Performance** | Real-time financial scenario simulation with live parameter adjustment |
+| **Security** | Structured API contracts · input validation across all endpoints |
+| **Impact** | Automated credit eligibility explanations — eliminating manual financial advisory |
 | **Repository** | [View on GitHub](https://github.com/Purnagya08) |
 
-Built with a focus on clean JSX patterns, composable components, and a responsive layout system that adapts seamlessly across device breakpoints.
+Modeled a debt-to-income scoring engine classifying applicants into High/Medium/Low risk tiers. Shipped a Chart.js dashboard with 4+ visualizations and integrated OpenAI API for automated plain-language loan eligibility reporting.
 
 </details>
 
@@ -129,21 +149,31 @@ Built with a focus on clean JSX patterns, composable components, and a responsiv
 
 ## Experience
 
-**Full Stack Developer** — Personal & Academic Projects  
-*2023 — Present*
+**Student Developer** — ICCASA 2026
+*January 2026 – Present*
 
-Independently architecting, developing, and deploying full stack applications across the MERN ecosystem. Working end-to-end from database schema design to frontend component architecture and production deployment.
+Built the conference schedule and speaker-listing pages for the ICCASA 2026 international conference, deployed live at `iccasa2026.uem.edu.in` serving 300+ registered attendees.
 
-- Designed and implemented RESTful API services with Express.js and Node.js
-- Built dynamic React frontends with TypeScript, component state management, and routing
-- Deployed applications on Vercel, Netlify, and Render with environment-based configuration
-- Integrated SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases with ORM layers
+- Developed responsive UI using HTML, CSS, and JavaScript with cross-browser compatibility across Chrome, Firefox, and Safari
+- Resolved layout inconsistencies across 5+ page sections for consistent rendering across devices
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+**Open Source Contributor** — ECWoC'26 (Elite Coders Winters of Code)
+*January 2026 – March 2026*
+
+Selected as a contributor in the ECWoC'26 open source program — contributed across 3 real-world repositories with a focus on shipping features and resolving maintainer-flagged issues.
+
+- Merged 10 PRs across 3 repos — shipped a dropdown filter feature, fixed a broken auth redirect, and resolved 7 UI bugs
+- Collaborated with maintainers via GitHub with 24-hour turnaround cycles on PR feedback and code iteration
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-ECWoC'26-8B5CF6?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
 ---
 
@@ -153,11 +183,12 @@ Independently architecting, developing, and deploying full stack applications ac
 
 | Recognition | Details |
 |-------------|---------|
-| 🏗️ Full Stack Projects | Multiple end-to-end MERN applications built and deployed |
-| 🔐 Auth Systems | JWT-based authentication systems with role-based access |
-| 📦 Database Design | Relational and NoSQL schema design with ORM integration |
-| 🚀 Deployment | Production deployments on Vercel, Netlify, and Render |
-| 🧩 Open Source | Active GitHub contributor across personal repositories |
+| 🌍 International Hackathon Finalist | LaserHacks 2025, Lasell University, USA — competed against 500+ global teams |
+| 🏆 2× National Hackathon Finalist | Finalist at 2 national-level hackathon competitions |
+| 🥇 2× Inter-College Hackathon Winner | First place at 2 inter-college hackathon events |
+| 📊 3× Semester Rank Holder | Top student among 250+ CSE students across Semesters 1, 2 & 3 |
+| ☕ NPTEL Java — 100% Score | Course Topper among 19,306 certified candidates · Top 1% Nationally (IIT Kharagpur) |
+| 🚀 Campus Ambassador, E-Cell IIT Bombay | Drove 120+ sign-ups across 3 national programs (Jul 2025 – Jan 2026) |
 
 </div>
 
@@ -167,19 +198,11 @@ Independently architecting, developing, and deploying full stack applications ac
 
 <div align="center">
 
-**NPTEL**
+**NPTEL — IIT Kharagpur**
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Programming%20in%20Java-0D6EFD?style=for-the-badge&logo=openjdk&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Problem%20Solving%20through%20Programming%20in%20C-0D6EFD?style=for-the-badge&logo=c&logoColor=white)
+[![NPTEL Java](https://img.shields.io/badge/NPTEL-Programming%20in%20Java%20%7C%20Score%3A%20100%25-0D6EFD?style=for-the-badge&logo=openjdk&logoColor=white)](https://nptel.ac.in)
 
-**Cisco Networking Academy**
-
-![Cisco](https://img.shields.io/badge/Cisco-Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-**Self-Directed Learning**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced%20Concepts-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-Frontend%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+> Score: **100%** &nbsp;·&nbsp; Online Assignments: **24.94/25** &nbsp;·&nbsp; Proctored Exam: **75/75** &nbsp;·&nbsp; **Top 1% Nationally** &nbsp;·&nbsp; Course Topper among **19,306** certified candidates
 
 </div>
 
@@ -189,9 +212,9 @@ Independently architecting, developing, and deploying full stack applications ac
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Purnagya08)
+[![LeetCode](https://img.shields.io/badge/LeetCode-50%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Purnagya08)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Java%205★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Purnagya08)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Purnagya08)
-[![HackerRank](https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Purnagya08)
 [![CodeChef](https://img.shields.io/badge/CodeChef-View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/purnagya08)
 
 </div>
@@ -251,25 +274,25 @@ Independently architecting, developing, and deploying full stack applications ac
 
 ```yaml
 learning:
-  - Advanced TypeScript patterns and generics
-  - System design and distributed systems concepts
-  - PostgreSQL query optimization and indexing
+  - System design and distributed systems architecture
+  - Advanced PostgreSQL — indexing, query planning, partitioning
+  - Kubernetes and container orchestration at scale
 
 building:
-  - Scalable MERN stack applications
-  - RESTful and GraphQL API services
-  - Full stack projects with real-world utility
+  - AI-powered full stack applications with FastAPI + React
+  - Event-driven microservices on Redis Streams
+  - Production-grade REST APIs with JWT-based RBAC
 
 exploring:
-  - Next.js App Router and server components
-  - FastAPI and Python microservices
-  - Cloud deployment with containerization
+  - Next.js App Router and React Server Components
+  - PyTorch model optimization and quantization
+  - Cloud-native deployment with Docker and CI/CD pipelines
 
 open_to:
-  - Backend engineering internships
-  - Full stack development opportunities
+  - Backend and full stack engineering internships
+  - AI/ML integration and product engineering roles
   - Open source collaboration
-  - Technical mentorship and peer learning
+  - Research-oriented software engineering projects
 ```
 
 ---
@@ -279,9 +302,10 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-purnagya.raj26nov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purnagya.raj26nov@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Purnagya%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purnagya-raj-3883b7321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Purnagya%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purnagya-raj)
 [![GitHub](https://img.shields.io/badge/GitHub-Purnagya08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purnagya08)
-[![Discord](https://img.shields.io/badge/Discord-purnagya08-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/purnagya08)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Purnagya08-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Purnagya08)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Purnagya08-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Purnagya08)
 
 </div>
 
@@ -289,7 +313,7 @@ open_to:
 
 <div align="center">
 
-*"The best code is the code that doesn't need to be explained."*
+*"The best engineers don't just write code — they engineer outcomes."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer&animation=fadeIn" width="100%"/>
 
