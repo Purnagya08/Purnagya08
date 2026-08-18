@@ -168,6 +168,8 @@ open_to:
   - Full-stack engineering internships
   - AI/ML integration roles
   - Open source collaboration
+```
+
 <div align="center">
 
 [LinkedIn](https://linkedin.com/in/purnagya-raj) &nbsp;·&nbsp;
